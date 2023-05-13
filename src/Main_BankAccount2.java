@@ -9,8 +9,8 @@ public class Main_BankAccount2 {
         BankAccount2 account1 = new BankAccount2(input, accountList);
 
 
-        BankAccount2 john = new BankAccount2("John Taylor", 500, 0);
-        BankAccount2 tempestt = new BankAccount2("Tempestt Taylor", 5000, 1);
+        BankAccount2 john = new BankAccount2("John Taylor ", 500, 0);
+        BankAccount2 tempestt = new BankAccount2("Tempestt Taylor ", 5000, 1);
 
 
         accountList.add(john);

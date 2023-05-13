@@ -25,7 +25,7 @@ public class BankAccount2 {
 
     public BankAccount2(Scanner input, ArrayList<BankAccount2> accountList) {
 
-        System.out.println("Welcome to the Bank of CTAC");
+        System.out.println("Welcome to the Bank of CTAC ");
         System.out.println("Do you have an account here? (-1 to exit) \n" +
                 "1. yes \n" +
                 "2. no");
